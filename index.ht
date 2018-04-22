@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Make This In An Hour</title>
+    <link rel="stylesheet"
+    href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  </head>
+  <body>
+  <h1>YOUR SITE TITLE</h1>
+  <p>Your text blahblahblhadf</p>
+  <P>Another argraph! Matbe more text!</p>
+</body>
+</html>
